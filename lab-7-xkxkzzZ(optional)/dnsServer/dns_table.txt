@@ -1,0 +1,5 @@
+cn-lab.nasa.nju.edu.cn. CNAME bsy.nasa.nju.edu.cn.
+*.108.nasa.nju.edu.cn. CNAME nasa.nju.edu.cn.
+*.609.nasa.nju.edu.cn. CNAME nasa.nju.edu.cn.
+bsy.nasa.nju.edu.cn. A 114.212.81.125
+nasa.nju.edu.cn. A 210.28.132.191 114.212.80.252
